@@ -39,7 +39,7 @@ I welcome feedback and suggestions to enhance my portfolio. Feel free to submit 
 
 If you have any inquiries or collaboration opportunities, connect with me via:
 
-- **Email:** [](sufyaanmd182@gmail.com)
+- **Email:** [sufyaanmd182@gmail.com](sufyaanmd182@gmail.com)
 - **LinkedIn:** [Mohammad Sufyaan](https://www.linkedin.com/in/mohammad-sufyaan)
 - **GitHub:** [sufyaannn](https://github.com/sufyaannn)
 
