@@ -39,8 +39,8 @@ I welcome feedback and suggestions to enhance my portfolio. Feel free to submit 
 
 If you have any inquiries or collaboration opportunities, connect with me via:
 
-- **Email:** [Your Email](sufyaanmd182@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mohammad-sufyaan)
-- **GitHub:** [https://github.com/sufyaannn](https://github.com/sufyaannn)
+- **Email:** [](sufyaanmd182@gmail.com)
+- **LinkedIn:** [Mohammad Sufyaan](https://www.linkedin.com/in/mohammad-sufyaan)
+- **GitHub:** [sufyaannn](https://github.com/sufyaannn)
 
 Thank you for visiting my portfolio repository! I hope you find it insightful. 🚀
